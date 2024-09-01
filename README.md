@@ -12,7 +12,7 @@
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="han990123@naver.com">
+    <a href="mailto:han990123@naver.com">
         <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
     </a>
 </div><br>
